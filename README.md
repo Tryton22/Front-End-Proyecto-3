@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto fue iniciado con [Create React App](https://github.com/facebook/create-react-app).  
+Modificación del archivo reactcrm original con la implementación de un CRUD para usuarios.  
+Instrucciones para su arranque a continuación, falta iniciar NODE.JS para su optimo funcionamiento.
 
 ## Available Scripts
 
